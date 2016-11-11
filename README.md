@@ -1,6 +1,6 @@
 # Serverless Boilerplate
 
-sc5-serverless-boilerplate is a project template for new serverless services. Contents of the template:
+serverless-boilerplate is a project template for new serverless services. Contents of the template:
 * plugin [serverless-mocha-plugin](https://github.com/SC5/serverless-mocha-plugin): enable test driven development using mocha, creation of functions from command line
 * plugin [serverless-offline] (https://github.com/dherault/serverless-offline): enable endpoint create from cli
 * plugin [serverless-webpack] (https://github.com/elastic-coders/serverless-webpack): enable endpoint create from cli
