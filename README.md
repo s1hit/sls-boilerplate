@@ -1,4 +1,4 @@
-# SC5 Serverless Boilerplate
+# Serverless Boilerplate
 
 sc5-serverless-boilerplate is a project template for new serverless services. Contents of the template:
 * plugin [serverless-mocha-plugin](https://github.com/SC5/serverless-mocha-plugin): enable test driven development using mocha, creation of functions from command line
